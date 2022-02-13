@@ -1,0 +1,7 @@
+node_modules
+.env
+.idea
+
+data/cache/*.json
+data/hgt/*.hgt
+data/result/*.stl

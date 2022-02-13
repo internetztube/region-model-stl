@@ -1,0 +1,22 @@
+{
+  "name": "region-model-stl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jscad/modeling": "^2.7.1",
+    "@jscad/stl-serializer": "^2.1.2",
+    "dotenv": "^16.0.0",
+    "gdal-async": "^3.4.1",
+    "geodesy": "^2.3.0",
+    "node-blob": "0.0.2",
+    "parse2-kmz": "^1.0.5",
+    "srtm-elevation": "^2.0.0"
+  }
+}
